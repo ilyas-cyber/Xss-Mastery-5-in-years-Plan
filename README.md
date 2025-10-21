@@ -89,7 +89,7 @@ Focusing on **XSS** hones your web security skills while keeping you engaged wit
 
 
 
-##DeepSkeep First years xss mastery planning
+## DeepSkeep First years xss mastery planning
 It's great to hear that you're dedicated to learning XSS and want to target major platforms like GitLab! Based on your plan to dedicate 3 hours daily, I'll break down what you can expect in terms of progress and when you might start seeing results. Remember, everyone learns at a different pace, but this should give you a realistic timeline.
 
 ### Estimated Timeline and Milestones
